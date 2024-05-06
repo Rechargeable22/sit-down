@@ -1,0 +1,1018 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.1 084b4234",
+    "osm3s": {
+        "timestamp_osm_base": "2024-05-06T14:59:44Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 3648031834,
+            "lat": 53.558704,
+            "lon": 10.0611852,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3648031837,
+            "lat": 53.5587574,
+            "lon": 10.0611412,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3648031840,
+            "lat": 53.5587763,
+            "lon": 10.0611399,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3648031846,
+            "lat": 53.5588493,
+            "lon": 10.0611245,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3651127251,
+            "lat": 53.558871,
+            "lon": 10.0611209,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3652550565,
+            "lat": 53.5589062,
+            "lon": 10.0614063,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3652550581,
+            "lat": 53.5589221,
+            "lon": 10.0613031,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4155819515,
+            "lat": 53.5561651,
+            "lon": 10.052795,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2024-03-18"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4300174575,
+            "lat": 53.5549962,
+            "lon": 10.0618989,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-01-31"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4523848291,
+            "lat": 53.5599112,
+            "lon": 10.0469064,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2024-04-14"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543688974,
+            "lat": 53.5560848,
+            "lon": 10.0496958,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543688978,
+            "lat": 53.5560254,
+            "lon": 10.0538053,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-05-07",
+                "mapillary": "829945324585217",
+                "source:position": "Mapillary 2018-07-18"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543688983,
+            "lat": 53.557278,
+            "lon": 10.053598,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-01-10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543688986,
+            "lat": 53.556117,
+            "lon": 10.046335,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543693493,
+            "lat": 53.5558777,
+            "lon": 10.0544615,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543693494,
+            "lat": 53.5561427,
+            "lon": 10.0479786,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543693495,
+            "lat": 53.5559369,
+            "lon": 10.0443881,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543693496,
+            "lat": 53.5573207,
+            "lon": 10.0535573,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-01-10"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543693503,
+            "lat": 53.5560203,
+            "lon": 10.0507033,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543791590,
+            "lat": 53.5583204,
+            "lon": 10.0470409,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4543791591,
+            "lat": 53.5588685,
+            "lon": 10.048358,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4731044866,
+            "lat": 53.5629813,
+            "lon": 10.056267,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-04-17"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5169401692,
+            "lat": 53.5469427,
+            "lon": 10.0549428,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5169401694,
+            "lat": 53.5469587,
+            "lon": 10.0546692,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5179875430,
+            "lat": 53.5466624,
+            "lon": 10.0589705,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5179875436,
+            "lat": 53.5465158,
+            "lon": 10.058882,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5179875437,
+            "lat": 53.5467995,
+            "lon": 10.0587425,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "no"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5179875438,
+            "lat": 53.546817,
+            "lon": 10.0583589,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5464276737,
+            "lat": 53.5553696,
+            "lon": 10.0583214,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5475672726,
+            "lat": 53.5557842,
+            "lon": 10.043404,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5846420331,
+            "lat": 53.5545012,
+            "lon": 10.0669603,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5846420332,
+            "lat": 53.5544805,
+            "lon": 10.0669835,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408063,
+            "lat": 53.5564603,
+            "lon": 10.0457565,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408064,
+            "lat": 53.5564683,
+            "lon": 10.0457109,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408065,
+            "lat": 53.5563647,
+            "lon": 10.0460878,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408066,
+            "lat": 53.5565607,
+            "lon": 10.0442894,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408067,
+            "lat": 53.556528,
+            "lon": 10.0442626,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408078,
+            "lat": 53.5563934,
+            "lon": 10.0444342,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5970408080,
+            "lat": 53.5561455,
+            "lon": 10.0440647,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971646628,
+            "lat": 53.5598316,
+            "lon": 10.0567871,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971646629,
+            "lat": 53.5598316,
+            "lon": 10.0565672,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971649782,
+            "lat": 53.5598037,
+            "lon": 10.0558564,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971649783,
+            "lat": 53.5595735,
+            "lon": 10.0564304,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971649784,
+            "lat": 53.5595305,
+            "lon": 10.0563982,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971650088,
+            "lat": 53.5597193,
+            "lon": 10.0554728,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971650089,
+            "lat": 53.5596452,
+            "lon": 10.0552784,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5971650090,
+            "lat": 53.5595934,
+            "lon": 10.0551443,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6012715560,
+            "lat": 53.5518909,
+            "lon": 10.0600334,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6012715561,
+            "lat": 53.5519322,
+            "lon": 10.0597998,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2024-02-03"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910888,
+            "lat": 53.5583451,
+            "lon": 10.0597268,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910904,
+            "lat": 53.5574163,
+            "lon": 10.0602016,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910905,
+            "lat": 53.5574362,
+            "lon": 10.0600702,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910913,
+            "lat": 53.5577991,
+            "lon": 10.0584628,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910914,
+            "lat": 53.5578018,
+            "lon": 10.0584434,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910915,
+            "lat": 53.5578042,
+            "lon": 10.0584246,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910916,
+            "lat": 53.5578393,
+            "lon": 10.0583334,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910917,
+            "lat": 53.5577684,
+            "lon": 10.0589731,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910918,
+            "lat": 53.5577795,
+            "lon": 10.0589329,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910919,
+            "lat": 53.5577899,
+            "lon": 10.0588886,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910920,
+            "lat": 53.5579675,
+            "lon": 10.0590107,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910921,
+            "lat": 53.557946,
+            "lon": 10.0590925,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034910922,
+            "lat": 53.5579867,
+            "lon": 10.0589463,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992192,
+            "lat": 53.5592254,
+            "lon": 10.0589865,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2022-01-26"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992193,
+            "lat": 53.5590593,
+            "lon": 10.0583426,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992194,
+            "lat": 53.5589555,
+            "lon": 10.0583946,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992197,
+            "lat": 53.5592589,
+            "lon": 10.0591975,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992198,
+            "lat": 53.5592294,
+            "lon": 10.0592154,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-05-15"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992199,
+            "lat": 53.5591515,
+            "lon": 10.0592544,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2022-01-26"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992200,
+            "lat": 53.5589179,
+            "lon": 10.0593714,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2022-01-26"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992201,
+            "lat": 53.5590737,
+            "lon": 10.0592934,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2022-01-26"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992202,
+            "lat": 53.5589958,
+            "lon": 10.0593324,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2022-01-26"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992203,
+            "lat": 53.5587897,
+            "lon": 10.0594318,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992205,
+            "lat": 53.5585817,
+            "lon": 10.0594546,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992206,
+            "lat": 53.5587339,
+            "lon": 10.0594631,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6034992207,
+            "lat": 53.5586781,
+            "lon": 10.0594944,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2023-04-01"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7191932357,
+            "lat": 53.5571686,
+            "lon": 10.0454082,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2024-01-29"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7836046714,
+            "lat": 53.5554189,
+            "lon": 10.0681094,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7836046715,
+            "lat": 53.5565996,
+            "lon": 10.0666069,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8447208950,
+            "lat": 53.5547822,
+            "lon": 10.0621019,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "check_date": "2021-01-31"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8613488673,
+            "lat": 53.5514004,
+            "lon": 10.0589767,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8613488674,
+            "lat": 53.5520111,
+            "lon": 10.0589593,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8613488675,
+            "lat": 53.5520103,
+            "lon": 10.0589893,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8897481523,
+            "lat": 53.5567164,
+            "lon": 10.0445158,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 8980274566,
+            "lat": 53.5583024,
+            "lon": 10.047046,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9501280617,
+            "lat": 53.555883,
+            "lon": 10.054442,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "source:position": "Mapillary 2018-07-18"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9816953702,
+            "lat": 53.5521639,
+            "lon": 10.0647604,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9897985393,
+            "lat": 53.5513821,
+            "lon": 10.0583966,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9897985395,
+            "lat": 53.5514723,
+            "lon": 10.0582917,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9897985403,
+            "lat": 53.5514711,
+            "lon": 10.0583679,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11181990077,
+            "lat": 53.5529985,
+            "lon": 10.0550066,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11181990079,
+            "lat": 53.5532746,
+            "lon": 10.0538391,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11230123618,
+            "lat": 53.5549639,
+            "lon": 10.0615628,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11230123620,
+            "lat": 53.5549699,
+            "lon": 10.0615026,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        },
+        {
+            "type": "node",
+            "id": 11230123622,
+            "lat": 53.5551937,
+            "lon": 10.0595698,
+            "tags": {
+                "amenity": "bench",
+                "backrest": "yes",
+                "material": "wood"
+            }
+        }
+    ]
+}

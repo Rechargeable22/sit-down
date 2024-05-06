@@ -1,5 +1,7 @@
 import requests
+import json
 from typing import Any, Dict
+import src.config as config
 
 def download_bench_data() -> None:
     """
@@ -28,8 +30,10 @@ def download_bench_data() -> None:
         response.raise_for_status()
         # Parsing the JSON response
         benches: Dict[str, Any] = response.json()
-        # Printing the downloaded data
-        print(benches)
+        with open(config.BENCHES_DATA_PATH, "w", encoding="utf-8") as file:
+            json.dump(benches, file, ensure_ascii=False, indent=4)
+            print(f"Data successfully saved to {config.BENCHES_DATA_PATH}")
+
     except requests.RequestException as e:
         # Handling request errors (e.g., network issues, invalid response)
         print(f"Failed to download data: {e}")
